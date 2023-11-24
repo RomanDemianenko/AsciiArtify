@@ -1,1 +1,1 @@
-![My GIF](agro.gif)
+![My GIF](../agro.gif)

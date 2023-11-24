@@ -29,7 +29,7 @@ K3d is a tool for rapidly deploying lightweight Kubernetes clusters. It uses k3s
 
 ## Demonstration
 
-![My GIF](demo.gif)
+![My GIF](../demo.gif)
 
 ## Conclusions
 
