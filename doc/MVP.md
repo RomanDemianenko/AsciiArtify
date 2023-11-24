@@ -1,0 +1,1 @@
+![My GIF](4.6_task.gif)
